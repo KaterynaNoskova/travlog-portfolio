@@ -1,0 +1,30 @@
+.container {
+    width: 1100px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+body{
+    font-family: 'Circular Std', sans-serif;
+    margin: 0;
+}
+a{
+    color: currentColor;
+    text-decoration: none;
+}
+button {
+    font-family: inherit;
+    cursor: pointer;
+}

@@ -1,0 +1,39 @@
+.header-wrap {
+}
+.header-logo-wrap {
+}
+.header-svg-logo {
+    color: linear-gradient(281deg, #5D50C6 7.11%, #F85E9F 93.54%);
+}
+.header-logo {
+    color: #191825;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 40px;
+}
+.header-list {
+    display: flex;
+    text-align: center;
+    padding-right: 64px;
+}
+.header-item {
+    color: rgba(25, 24, 37, 0.50);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+}
+.header-logo-btn {
+}
+.header-btn {
+    width: 115px;
+    height: 49px;
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 15px;
+}
+.sing-up {
+    background-color:#5D50C6;
+    color: #EEE;
+}
