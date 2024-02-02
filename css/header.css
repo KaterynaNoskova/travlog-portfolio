@@ -1,7 +1,7 @@
-.header-wrap {
+/* .header-wrap {
 }
 .header-logo-wrap {
-}
+} */
 .header-svg-logo {
     color: linear-gradient(281deg, #5D50C6 7.11%, #F85E9F 93.54%);
 }
@@ -24,8 +24,8 @@
     font-weight: 700;
     line-height: 17px;
 }
-.header-logo-btn {
-}
+/* .header-logo-btn {
+} */
 .header-btn {
     width: 115px;
     height: 49px;
